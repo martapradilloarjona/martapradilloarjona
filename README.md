@@ -1,5 +1,3 @@
-#martapradilloarjona
-
 Hi!!! 👋🏻
 
 **Senior Python Developer🐍** with 7 years of experience building scalable backend systems, automating processes, and working with frameworks such as Django and Flask, as well as SQL databases, Docker, Kubernetes, and AWS.
