@@ -1,20 +1,23 @@
 Hi!!! 👋🏻
 
-**Senior Python Developer🐍** with 7 years of experience building scalable backend systems, automating processes, and working with frameworks such as Django and Flask, as well as SQL databases, Docker, Kubernetes, and AWS.
+**Senior Python Developer** with 7+ years of experience building scalable backend systems, automating processes, and integrating databases (PostgreSQL, MySQL). Skilled in Python and experienced with frameworks such as Django and Flask.
 
-In addition to my strong background in software development, I also bring experience in cybersecurity and SOC environments🔐, where I applied Python 🐍 to automate tasks🔨, analyze logs💻 and integrate with SIEM solutions such as Splunk⚙. This unique combination allows me to develop not only efficient applications but also solutions that strengthen security and resilience💪🏻
+Strong background in DevOps, including CI/CD pipelines, Docker, Kubernetes, and AWS cloud deployments.
 
-I am passionate about continuous learning 📚 and exploring 🔍 new technologies in Python🐍, cloud ☁, and security🔐
+Additionally, I bring experience in cybersecurity and SOC environments, where I applied Python to automate incident response, log analysis, and SIEM integration (Splunk).
+
+Passionate about continuous learning, backend architecture, and cloud technologies.
 
 
 Hola!!! 👋🏻
 
-**Desarrolladora Senior Python** 🐍 con 7 años de experiencia en la construcción de sistemas backend escalables, automatización de procesos y trabajo con frameworks como Django y Flask, así como con bases de datos SQL, Docker, Kubernetes y AWS.
+**Desarrolladora Senior Python** 🐍 con más de 7 años de experiencia en la construcción de sistemas backend escalables, automatización de procesos y gestión de bases de datos (PostgreSQL, MySQL). Experiencia trabajando con frameworks como Django y Flask.
 
-Además de mi sólida trayectoria en desarrollo de software, también aporto experiencia en ciberseguridad y entornos SOC🔐, donde apliqué Python 🐍 para automatizar tareas🔨, analizar registros💻 e integrar soluciones SIEM como Splunk⚙. Esta combinación única me permite desarrollar no solo aplicaciones eficientes, sino también soluciones que fortalecen la seguridad y la resiliencia.
+Amplia experiencia en prácticas DevOps, incluyendo pipelines CI/CD, Docker, Kubernetes y despliegues en AWS.
 
-Soy una profesional apasionada por el aprendizaje continuo 📚 y la exploración 🔍 de nuevas tecnologías en Python🐍, cloud ☁ y seguridad🔐
+También aporto experiencia en ciberseguridad y entornos SOC, aplicando Python para la automatización de respuestas a incidentes, análisis de registros e integración con SIEM (Splunk).
 
+Apasionada por el aprendizaje continuo, las arquitecturas backend y las tecnologías cloud.
 
 **Stack**
 - Lenguajes y Frameworks: Python (avanzado), Django, Flask, Java, C++, JavaScript, HTML, CSS.
@@ -27,6 +30,7 @@ Soy una profesional apasionada por el aprendizaje continuo 📚 y la exploració
 
 **Python Developer**
 **Python Engineer**
+**DevOps**
 
 **Contact**
 martapradilloarjona@gmail.com
